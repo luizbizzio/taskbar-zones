@@ -1,5 +1,9 @@
 # Taskbar Zones
 
+[![Windhawk users](https://windhawk-badges.luizbizzio.workers.dev/badges/taskbar-zones/users.svg?icon=windhawk&labelMode=short)](https://windhawk.net/mods/taskbar-zones)
+[![Windhawk rating](https://windhawk-badges.luizbizzio.workers.dev/badges/taskbar-zones/rating.svg?icon=windhawk&labelMode=short)](https://windhawk.net/mods/taskbar-zones)
+[![Mod version](https://windhawk-badges.luizbizzio.workers.dev/badges/taskbar-zones/version.svg?icon=windhawk)](https://windhawk.net/mods/taskbar-zones)
+
 Organize your **Windows 11 taskbar** into two fixed zones. Keep each app on the left or right, even when you open or close it.
 
 ![Taskbar Zones](assets/taskbar-zones-cover.png)
