@@ -2,10 +2,11 @@
 // @id              taskbar-zones
 // @name            Taskbar Zones
 // @description     Organize Windows 11 taskbar apps into fixed left and right zones. Drag icons between sides and keep their positions when apps open or close.
-// @version         1.0.0
+// @version         1.0.1
 // @author          Luiz Bizzio
 // @github          https://github.com/luizbizzio
 // @homepage        https://github.com/luizbizzio/taskbar-zones
+// @donateUrl       https://github.com/sponsors/luizbizzio
 // @include         explorer.exe
 // @architecture    x86-64
 // @compilerOptions -lcomctl32 -lole32 -loleaut32 -lruntimeobject
@@ -89,13 +90,11 @@ Keep your apps on the **left or right side** of the Windows 11 taskbar. Each app
 - Secondary monitors show only the app buttons that Windows puts on each taskbar.
 - Windows updates may affect compatibility.
 
-## Project
+## Credits
 
-View the source code, report issues, or suggest improvements on [GitHub](https://github.com/luizbizzio/taskbar-zones).
+**Taskbar Zones** is maintained by **Luiz Bizzio**. It is a separate, modified version of [Taskbar Split by Arkadiusz (Artllex)](https://github.com/Artllex/taskbar-split), with persistent per-app zones, cross-zone dragging and secondary taskbar support.
 
-**Taskbar Zones** is based on [Taskbar Split by Arkadiusz (Artllex)](https://github.com/Artllex/taskbar-split), with additional features and independent development.
-
-Author: **Luiz Bizzio**. Licensed under **GPL-3.0**.
+Licensed under **GPL-3.0**. Additional code credits and copyright notices are in the source file.
 */
 // ==/WindhawkModReadme==
 
